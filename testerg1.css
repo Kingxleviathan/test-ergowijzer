@@ -1,9 +1,25 @@
-.body{
-    background: purple;
+body{
+    background-color: lightblue;
 }
 .container{
     color: red;
 }
 .left-column{
     background-color: green;
+}
+img{
+    position: relative;
+    left: 25vh;
+}
+.p1{
+    background-color: orange;
+    color: greenyellow;
+}
+.p2{
+    background-color: blue;
+    color: aquamarine;
+}
+.p3{
+    background-color: aliceblue;
+    color: brown;
 }
