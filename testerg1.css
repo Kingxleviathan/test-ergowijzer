@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+.container{
+    color: red;
+}
+.left-column{
+    background-color: green;
+}
+img{
+    position: relative;
+    left: 25vh;
+}
+.p1{
+    background-color: orange;
+    color: greenyellow;
+}
+.p2{
+    background-color: blue;
+    color: aquamarine;
+}
+.p3{
+    background-color: aliceblue;
+    color: brown;
+}
+.right-column{
+    background-color: pink;
+    position: relative;
+    top: 20vh;
+}
+h1{
+    text-align: center;
+}
