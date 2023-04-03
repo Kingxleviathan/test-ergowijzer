@@ -23,11 +23,3 @@ img{
     background-color: aliceblue;
     color: brown;
 }
-.right-column{
-    background-color: pink;
-    position: relative;
-    top: 20vh;
-}
-h1{
-    text-align: center;
-}
